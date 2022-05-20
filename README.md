@@ -1,8 +1,8 @@
 
-# Hi,👋 I'm Bhuvnesh Gangwar
+#                                       Hi,👋 I'm Bhuvnesh Gangwar
 
 
-##                 An emerging Developer
+##                                         An emerging Developer
 
 
 
